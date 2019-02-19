@@ -1,3 +1,5 @@
+#Still in development
+
 # Ionic Module Template
 
 This is a template for building your own reusable Angular2/Ionic2 module using TypeScript. Supports Angular's ngc and Ahead-of-Time compiling out of the box.
